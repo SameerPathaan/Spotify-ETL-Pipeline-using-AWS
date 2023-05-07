@@ -1,4 +1,4 @@
-## Spotify-ETL-Pipeline-Using-AWS
+# Spotify-ETL-Pipeline-Using-AWS
 
 ### Introduction: 
 In this project, i have built an ETL Pipeline using Spotify API. The pipeline will retrieve the data from the Spotify API, transform the data into a desired format and then load it into the AWS Data Store called Amazon Athena.
